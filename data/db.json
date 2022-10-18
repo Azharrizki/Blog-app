@@ -1,0 +1,32 @@
+{
+  "blogs": [
+    {
+      "id": 2,
+      "title": "Nikola Founder Found Guilty Of Fraud",
+      "body": "The founder of electric pickup manufacturer Nikola faces 20 years in prison after being found guilty of fraud. Trevor Milton stepped down from his role as chief executive of the electric vehicle manu",
+      "author": "Alrizki",
+      "publishedAt": "October 18, 2022"
+    },
+    {
+      "title": "Sigath '23",
+      "body": "Undangan kepada seluruh mahasiswa sistem informasi Universitas Ahmad Dahlan",
+      "author": "Muhammad Alrizki",
+      "publishedAt": "October 20, 2022",
+      "id": 3
+    },
+    {
+      "title": "Makrab Pemuda Pemudi GTT 2022",
+      "body": "Pemberitahuan kepada seluruh pemuda",
+      "author": "Azhar Rizki",
+      "publishedAt": "October 18, 2022",
+      "id": 4
+    },
+    {
+      "title": "Makrab Mahasiswa Sistem Informasi UAD'22",
+      "body": "Pemberitahuan kepada seluruh mahasiswa informasi Universitas Ahmad Dahlan ",
+      "author": "Azhar Rizki",
+      "publishedAt": "October 25, 2022",
+      "id": 5
+    }
+  ]
+}
